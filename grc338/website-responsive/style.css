@@ -38,7 +38,7 @@ img {
 
 header {
     display: grid;
-    grid-template-columns: 3fr 2fr;
+    grid-template-columns: 12em auto;
     background-color: rgb(204, 204, 204);
     padding: 1rem 0.5rem;
 }
